@@ -24,21 +24,13 @@ Plan your next world trip  with Leaflet!
 ### Quick Start
 Run the following in your favorite terminal:
 ```
-gatsby new [directory] https://github.com/akap97/trip-planner
+git clone https://github.com/akap97/trip-planner
 ```
 
-### Starting from Scratch
-* Set up Yarn: https://yarnpkg.com/lang/en/docs/install/#mac-stable)[https://yarnpkg.com/lang/en/docs/install/
-* Install the Gatsby CLI globally:
-```
-yarn global add gatsby-cli
-```
-* Inside the directory of your choice, scaffold a new Gatsby site:
-```
-gatsby new [directory] https://github.com/akap97/trip-planner
-```
 * Navigate to your new directory and run:
 ```
+yarn install
+
 yarn develop
 ```
 * You should now be running a new Gatsby site locally! 🎉
